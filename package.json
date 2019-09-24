@@ -1,0 +1,33 @@
+{
+    "name": "sublime-vscode-theme",
+    "displayName": "Sublime VSCode Theme",
+    "description": "Makes your VSCode look just like Sublime Text",
+    "author": {
+        "name": "yurihs",
+        "url": "https://yurihs.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yurihs/sublime-vscode-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/yurihs/sublime-vscode-theme/issues"
+    },
+    "publisher": "yurihs",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sublime VSCode Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/sublime-vscode-theme.json"
+            }
+        ]
+    }
+}
