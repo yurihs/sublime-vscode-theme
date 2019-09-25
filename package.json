@@ -21,6 +21,11 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "sublime text",
+        "light sidebar",
+        "white sidebar"
+    ],
     "icon": "icon.png",
     "contributes": {
         "themes": [
