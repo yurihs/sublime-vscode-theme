@@ -15,3 +15,8 @@ Based on [Maximetinu/Sublime-Text-Monokai-theme-for-Visual-Studio-Code](https://
 ## Installing
 
 This extension can be installed from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/yurihs.sublime-vscode-theme).
+
+
+## Text contrast issues
+
+Due to the lack of color customization options offered by VSCode, the light sidebar causes a few other things UI elements to be unreadable. I'm working on resolving this problem. See [issue #1](https://github.com/yurihs/sublime-vscode-theme/issues/1) for more details.
