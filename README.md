@@ -9,6 +9,9 @@ Based on [Maximetinu/Sublime-Text-Monokai-theme-for-Visual-Studio-Code](https://
 
 ![Screenshot](https://raw.githubusercontent.com/yurihs/sublime-vscode-theme/master/screenshots/django.png)
 
+(The icon theme in the screenshot is [flatland icon theme by gebilaoxiong](https://marketplace.visualstudio.com/items?itemName=gebilaoxiong.vscode-flatland-icon-theme).)
+
+
 ## Installing
 
 This extension can be installed from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/yurihs.sublime-vscode-theme).
