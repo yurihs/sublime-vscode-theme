@@ -51,6 +51,7 @@
 		"gitDecoration.submoduleResourceForeground": "#333333",
 		"input.background": "#ffffff",
 		"input.foreground": "#1d1d1b",
+		"input.placeholderForeground": "#a8abb0",
 		"inputOption.activeBackground": "#abb1ba",
 		"inputOption.activeBorder": "#abb1ba",
 		"inputOption.activeForeground": "#ffffff",
