@@ -19,4 +19,4 @@ This extension can be installed from the [Visual Studio Code Marketplace](https:
 
 ## Text contrast issues
 
-Due to the lack of color customization options offered by VSCode, the light sidebar causes a few UI elements to be unreadable. I'm working on resolving this problem. See [issue 1](https://github.com/yurihs/sublime-vscode-theme/issues/1) for more details.
+Due to the lack of color customization options offered by VSCode, the light sidebar causes a few UI elements to be slightly hard to read. I'm working on resolving this problem. See [issue 1](https://github.com/yurihs/sublime-vscode-theme/issues/1) for more details.

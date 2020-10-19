@@ -1,3 +1,7 @@
+## v1.4.0 (2020-10-19)
+
+* Fix styling for function calls
+
 ## v1.3.0 (2020-07-13)
 
 * Add styles for the debug "variables" and "call stack" panes

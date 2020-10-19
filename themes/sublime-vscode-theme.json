@@ -265,6 +265,14 @@
 			}
 		},
 		{
+			"name": "Function call",
+			"scope": "variable.function, variable.annotation, meta.function-call.generic",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#66D9EF"
+			}
+		},
+		{
 			"name": "Library function",
 			"scope": "support.function",
 			"settings": {
