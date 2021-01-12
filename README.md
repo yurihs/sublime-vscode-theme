@@ -14,7 +14,8 @@ Based on [Maximetinu/Sublime-Text-Monokai-theme-for-Visual-Studio-Code](https://
 
 ## Installing
 
-This extension can be installed from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/yurihs.sublime-vscode-theme).
+This extension can be installed from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/yurihs.sublime-vscode-theme),  
+or the [Open VSX Registry](https://open-vsx.org/extension/yurihs/sublime-vscode-theme).
 
 
 ## Text contrast issues

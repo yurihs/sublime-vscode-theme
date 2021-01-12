@@ -1,3 +1,7 @@
+## v1.4.1 (2021-01-12)
+
+* Specify MIT license.
+
 ## v1.4.0 (2020-10-19)
 
 * Fix styling for function calls

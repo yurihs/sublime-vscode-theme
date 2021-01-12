@@ -2,6 +2,7 @@
     "name": "sublime-vscode-theme",
     "displayName": "Sublime VSCode Theme",
     "description": "Light in the sidebar; dark everywhere else. Just like Sublime Text!",
+    "license": "MIT",
     "author": {
         "name": "yurihs",
         "url": "https://yurihs.com"
