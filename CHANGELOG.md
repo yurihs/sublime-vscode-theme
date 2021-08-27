@@ -1,3 +1,7 @@
+## v1.5.0 (2021-08-27)
+
+* Fix tab text contrast by adding new gitDecoration values.
+
 ## v1.4.1 (2021-01-12)
 
 * Specify MIT license.
